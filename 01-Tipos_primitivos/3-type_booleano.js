@@ -1,4 +1,5 @@
-// comparação "==="
+// comparação "===" compara o valor e o tipo
+//"==" (dois sinais de igual, comparando apenas o valor e não o tipo),
 const primeiroNumero = 5;
 const segundoNumero = 10;
 let cadastroAtivado = true;
